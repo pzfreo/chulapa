@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@100..900&family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@100..900&family=Lato&family=Merriweather&display=swap');
 
 $font-family-base: 'Lato', Helvetica, sans-serif !default; 
 $headings-font-family: 'Lato', sans-serif !default;
-$title-font-family: 'Noto Serif', serif !default;
+$title-font-family: 'Noto Serif', 'Merriweather','Times New Roman', serif !default;
 $headings-font-weight: 900 !default;
 $input-btn-font-family:$headings-font-family !default;
 
