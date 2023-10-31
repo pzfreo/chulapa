@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@100..900&family=Lato&display=swap');
 
-$font-family-base: 'Lato', 'Noto Serif', sans-serif !default; 
-$headings-font-family: 'Merriweather', serif !default;
+$font-family-base: 'Lato', Helvetica, sans-serif !default; 
+$headings-font-family: 'Lato', sans-serif !default;
+$title-font-family: 'Merriweather', serif !default;
 $headings-font-weight: 900 !default;
 $input-btn-font-family:$headings-font-family !default;
 
@@ -45,6 +46,6 @@ label {
 .hero-chulapa-image h1, 
 .splash-chulapa h1, 
 .splash-chulapa-image h1 {
-  font-family: $headings-font-family;
+  font-family: $title-font-family;
   font-weight: $headings-font-weight !important;
 }
