@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@100..900&family=Lato&family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield:wght@100..900&family=Montserrat&display=swap');
 
-$font-family-base: 'Lato', Helvetica, sans-serif !default; 
-$headings-font-family: 'Lato', sans-serif !default;
-$title-font-family: 'Noto Serif', 'Merriweather','Times New Roman', serif !default;
+$font-family-base: 'Montserrat', Helvetica, sans-serif !default; 
+$headings-font-family: 'Montserrat', sans-serif !default;
+$title-font-family: 'Mrs Saint Delafield', serif !default;
 $headings-font-weight: 900 !default;
 $input-btn-font-family:$headings-font-family !default;
 
@@ -35,7 +35,6 @@ nav, footer, button, input, label, legend, table, form, aside, header,
 }
 .chulapa-links-hover-only i, .chulapaDateSocial i {
   color: $primary;
-  font-weight: bold;
 }
 
 label {
